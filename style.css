@@ -1,0 +1,15 @@
+.tito{text-align:center;
+color: hsl(0, 0%, 0%);
+ }
+ .tito{border-color: green ;
+border-right: double;
+border-color: darkolivegreen;
+margin-left: 40%;
+margin-right: 30%;
+}
+.tito{font-size: 150%;
+}
+
+body{
+    text-align: center;
+}
