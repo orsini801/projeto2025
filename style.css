@@ -1,9 +1,9 @@
 .tito{text-align:center;
-color: hsl(0, 0%, 0%);
+color: hsla(0, 23%, 95%, 0.007);
  }
- .tito{border-color: green ;
+ .tito{border-color: rgb(5, 247, 226) ;
 border-right: double;
-border-color: darkolivegreen;
+border-color: rgb(243, 44, 37);
 margin-left: 40%;
 margin-right: 30%;
 }
@@ -12,6 +12,7 @@ margin-right: 30%;
 
 body{
     text-align: center;
+    background-color: forestgreen;
 }
 img{
     size: 10%
